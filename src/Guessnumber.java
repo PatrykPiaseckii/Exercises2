@@ -9,7 +9,7 @@ Scanner input = new Scanner(System.in);
     
 int number = (int)(Math.random() * 101);
 
-System.out.println("Guess number is beetwen 0 - 100");
+System.out.println("Guess number is beetwen 0 - 110");
 
 int answer = -1;
 while (answer != number) {
